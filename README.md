@@ -4,8 +4,6 @@
 简单的自定义点评控件实现，通过点击和滑动进行评分。
 
 Usage:
-
-
  <com.jusfoun.customcommit.RatingBarView
         android:id="@+id/custom_ratingbar"
         android:layout_width="match_parent"
