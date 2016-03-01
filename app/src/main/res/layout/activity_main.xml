@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity">
+
+    <com.jusfoun.customcommit.RatingBarView
+        android:id="@+id/custom_ratingbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal"
+        app:starCount="5"
+        app:starEmpty="@mipmap/green"
+        app:starFill="@mipmap/red"
+        app:starImageSize="50dp"/>
+
+</RelativeLayout>
