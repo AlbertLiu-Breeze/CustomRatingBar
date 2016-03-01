@@ -1,4 +1,4 @@
-# CustomRatingBar
+CustomRatingBar
 自定义点评控件
 
 How to Usage:
