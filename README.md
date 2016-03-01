@@ -2,7 +2,7 @@
 自定义点评控件，简单的自定义点评控件实现，通过点击和滑动进行评分。
 
 #使用方法
-# Code Sample
+Code Sample
  <com.jusfoun.customcommit.RatingBarView   
         android:id="@+id/custom_ratingbar"
         android:layout_width="match_parent"
